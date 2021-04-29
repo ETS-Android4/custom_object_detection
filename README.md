@@ -1,3 +1,5 @@
+ **NOTE**: I have uploaded both the TFLite models trained using TensorFlow 1 & 2 as detectTF1.tflite & detectTF2.tflite inside ***custom_object_detection/app/src/main/assets/***. Make sure to change the name to what you have in the ***DetectorActivity.java*** file inside ***custom_object_detection/app/src/main/java/org/tensorflow/lite/examples/detection/***. Use either of the models for testing.
+
 # TensorFlow Lite Object Detection Android Demo
 
 ### Overview
